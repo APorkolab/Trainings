@@ -1,0 +1,6 @@
+#még egy kommentsor
+1;Kossuth Lajos;kossuth@magyarorszag.hu;1802-09-19
+#2;Regi Ment;regiment@magyarorszag.hu;1800-01-01
+3;Bent Lee;bent@lee.com;2000-05-17
+#4;Kincses Doboz;doboz@szajre.hu;1807-05-10
+5;Barna Ede;edebarna@magyarorszag.hu;1999-12-31

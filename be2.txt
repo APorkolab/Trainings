@@ -1,4 +1,0 @@
-1;Kossuth Lajos;kossuth@magyarorszag.hu;1802-09-19
-2;Bent Lee;bent@lee.com;2000-05-17
-3;Kincses Doboz;doboz@szajre.hu;1807-05-10
-4;Barna Ede;edebarna@magyarorszag.hu;1999-12-31
